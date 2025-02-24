@@ -1,1 +1,1 @@
-# Lightly-Customized-Open-WebUI
+# Lightly Customized WebUI
